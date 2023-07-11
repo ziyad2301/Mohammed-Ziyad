@@ -2,7 +2,7 @@
 <h3 align="left">Web Developer</h3>
 <p>Enthusiastic Electronics graduate from Nehru Institute of Engineering and Technology. Experienced in web development, design , programming, testing and developing codes. Quick learner and adaptive to new technologies.</p>
 
-- 📩  You can contact me at [ziyad.szakeer@gmail.com](ziyad.szakeer@gmail.com)
+- 📩  You can contact me at [ziyad.szakeer@gmail.com](mailto:ziyad.szakeer@gmail.com)
 
 - 📄 Know more about me  <a href="https://drive.google.com/file/d/113ahWO2vxEVwdUSrAGi24WoWMpKUx5l4/view?usp=drivesdk"  target="_blank"> 
  RESUME </a>
