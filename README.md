@@ -8,7 +8,7 @@
  RESUME </a>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinashraf&label=Profile%20views&color=0e75b6&style=flat" alt="shibinashraf" /> </p>
 <h3 align="left">Certifications/Achievements 🥉</h3>
-●	Completed Embedded System virtual internship by LAMS Automation.
+●	Completed Responsive Web Designing using CSS from Codekaro.
 
 ●	Completed Data Visualization:Empowering Business with Effective Insight virtual Course Certification from TCS.
 
