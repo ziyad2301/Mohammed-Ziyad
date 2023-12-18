@@ -4,7 +4,7 @@
 
 - 📩  You can contact me at [ziyad.szakeer@gmail.com](mailto:ziyad.szakeer@gmail.com)
 
-- 📄 Know more about me  <a href="https://drive.google.com/file/d/1vJDp7bLsxlP_OaS5BK3iHtrG2XL1Pe8P/view?usp=drivesdk" target="_blank"> 
+- 📄 Know more about me  <a href="https://drive.google.com/file/d/1vJDp7bLsxlP_OaS5BK3iHtrG2XL1Pe8P/view?usp=drivesdk" target="blank"> 
  RESUME </a>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinashraf&label=Profile%20views&color=0e75b6&style=flat" alt="shibinashraf" /> </p>
 <h3 align="left">Certifications/Achievements 🥉</h3>
