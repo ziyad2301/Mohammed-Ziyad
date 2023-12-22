@@ -35,10 +35,9 @@
 <b>My GitHub Stats</b>
 
 
-<a href="https://github.com/ziyad2301" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb4807&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ziyad2301" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad2301&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohd-ziyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-ziyad" height="30" width="40" /></a>
-<a href="https://instagram.com/ziyad3367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziyad3367" height="30" width="40" /></a>
 </p>
